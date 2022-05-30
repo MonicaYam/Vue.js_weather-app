@@ -7,7 +7,7 @@ weather app with vue.js, Bootstrap 5 and Font Awesome
 API:OpenWeather(https://openweathermap.org/) and LocationIQ(https://locationiq.com/)  
 
 
-##Installation   
+## Installation   
 for some icons   
 npm install @fortawesome/fontawesome-svg-core   
 npm install @fortawesome/free-solid-svg-icons   
