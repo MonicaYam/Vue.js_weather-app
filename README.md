@@ -13,9 +13,9 @@ npm install @fortawesome/fontawesome-svg-core
 npm install @fortawesome/free-solid-svg-icons   
 npm install @fortawesome/vue-fontawesome@prerelease   
    
-BootStrap
-npm install bootstrap --save          
-npm install @popperjs/core --save    
+BootStrap   
+npm install bootstrap --save             
+npm install @popperjs/core --save       
 
 
 Import them on main.js   
